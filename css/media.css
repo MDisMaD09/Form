@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+    .Form-box {
+        width: 60vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .Form-box {
+        width: 92vw;
+    }
+}
