@@ -1,9 +1,9 @@
-const form = document.querySelector(".wrapper"),
+const form = document.querySelector("form"),
 fileInput = document.querySelector(".file-input"),
 progressArea = document.querySelector(".progress-area"),
 uploadedArea = document.querySelector(".uploaded-area");
-
-form.addEventListener("click", () =>{
+const form2 = document.querySelector(".wrapper")
+form2.addEventListener("click", () =>{
   fileInput.click();
 });
 
